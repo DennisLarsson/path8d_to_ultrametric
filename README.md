@@ -4,6 +4,7 @@ Made by Dennis Larsson @ University of Vienna - 27th July 2021
 
 Before running this script make sure to give the PATHd8 executable file proper permissions. This is done by typing this into the terminal 
 while the terminal is standing where the executable is located (in my case in the directory "/home/biogeoanalysis/scriptMona/"): chmod +x PATHd8
+
 To run this script type the following into the terminal while the terminal is standing in the folder which contains 
 this script, the template file, the newick file and the PATHd8 executable file:
 
